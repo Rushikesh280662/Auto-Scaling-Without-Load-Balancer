@@ -94,7 +94,7 @@ The setup ensures high availability by automatically creating new EC2 instances 
 ---
 
                  **To understand it better I generate The Flowchart**
-<img width="1820" height="533" alt="Flowchart" src="https://github.com/user-attachments/assets/3fd91759-6d0f-4c77-a5ae-6aa5652dd1b1" />
+<img width="988" height="808" alt="Auto-Scaling without Load Balancing" src="https://github.com/user-attachments/assets/db4b77a8-9215-44d8-a7b1-18a2ffae764a" />
 
 ---
 
