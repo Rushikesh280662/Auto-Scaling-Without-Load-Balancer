@@ -1,4 +1,5 @@
-# Auto Scaling Without a Load Balancer (AWS Hands-on Practice)
+# Auto Scaling Without a Load Balancer 
+(AWS Hands-on Practice)
 
 ## Overview
 Demonstrates how to configure **Auto Scaling** in AWS **without using a Load Balancer**.  
