@@ -1,7 +1,7 @@
-# Auto Scaling Without a Load Balancer (AWS Hands-on Project)
+# Auto Scaling Without a Load Balancer (AWS Hands-on Practice)
 
 ## Overview
-This project demonstrates how to configure **Auto Scaling** in AWS **without using a Load Balancer**.  
+Demonstrates how to configure **Auto Scaling** in AWS **without using a Load Balancer**.  
 The setup ensures high availability by automatically creating new EC2 instances when one fails, using a custom Amazon Machine Image (AMI) and an Auto Scaling Group (ASG).
 
 ---
