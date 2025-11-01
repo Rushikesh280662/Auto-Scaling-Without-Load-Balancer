@@ -54,7 +54,7 @@ The setup ensures high availability by automatically creating new EC2 instances 
 
 ### 4. Create Launch Template
 - Created a new **Launch Template**.  
-- Selected the AMI created in the previous step.  
+- Go to Application and OS Images (Amazon Machine Image) and Select My AMIs
 - Instance Type: `t2.micro` (or chosen type).  
 - Selected the same Key Pair and Security Group (`launch-wizard-2`).
 
