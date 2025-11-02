@@ -146,7 +146,7 @@ Open `http://<PUBLIC_IP>` in your browser to verify the page displays.
 
 ---
 
-## Flowchart image and any scripts/user-data snippets.
+## Flowchart for this Activity 
 <img width="988" height="808" alt="Auto-Scaling without Load Balancing" src="https://github.com/user-attachments/assets/dd8bb35e-0c5e-4709-9d62-e7449fb510fe" />
 
 ---
